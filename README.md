@@ -23,3 +23,4 @@ In this project, there are basically four types of files:
 * CSS File (style.css)
 * JavaScript File (script.js file)
 * Images (dice.png file)
+![2022-11-15](https://user-images.githubusercontent.com/108679567/201890243-6a44651a-4b7f-43bc-9366-1563c1a4821f.png)
